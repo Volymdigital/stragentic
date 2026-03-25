@@ -9,7 +9,7 @@
     "stop.rules",
     "safety.rules"
   ],
-  "primary_runtime_overlay": "chatgpt.rules",
+  "primary_runtime_overlay": "antigravity.rules",
   "secondary_overlays": [
     "handover.rules"
   ]

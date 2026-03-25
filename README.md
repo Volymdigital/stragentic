@@ -1,8 +1,8 @@
-# Governance Consumer Template
+# Stragentic
 
-A starter repository for projects using the `@aihackers-volym` governance system.
+A governance-enforced project using the `@aihackers-volym` governance system.
 
-**Profile:** planner-first (default)
+**Profile:** executor-first
 
 ## Packages
 

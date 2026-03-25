@@ -1,4 +1,4 @@
-# MASTER — Consumer Template
+# MASTER — Stragentic
 
 Version: 1.0
 Status: Active

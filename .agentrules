@@ -7,7 +7,7 @@ CORE
 - safety.rules
 
 PRIMARY RUNTIME OVERLAY
-- chatgpt.rules
+- antigravity.rules
 
 SECONDARY CAPABILITY OVERLAYS
 - handover.rules

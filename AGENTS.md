@@ -1,4 +1,4 @@
-# AGENTS — Consumer Template
+# AGENTS — Stragentic
 
 ## Authority Hierarchy
 
